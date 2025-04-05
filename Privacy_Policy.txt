@@ -1,0 +1,4 @@
+App Privacy Policy
+
+This app does not collect any user information.
+All the information is stored on the user's device and not shared with anybody.
